@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Smart Recycling Assistant",
+  "description": "AI-powered recycling assistant that recognizes waste materials, tracks their journey through a campus Digital Twin, and provides personalized circular economy recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
